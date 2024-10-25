@@ -1,0 +1,21 @@
+{
+  "name": "nellcargo",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/tailwind": "^5.1.0",
+    "@fontsource-variable/josefin-sans": "^5.1.0",
+    "astro": "^4.15.4",
+    "tailwindcss-animated": "^1.1.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.11"
+  }
+}
