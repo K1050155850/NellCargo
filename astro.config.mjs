@@ -4,5 +4,5 @@ import tailwind from '@astrojs/tailwind';
 export default defineConfig({
     integrations: [tailwind()],
     site: 'https://K1050155850.github.io',
-    base: 'NellCargo',
+    base: '/NellCargo',
 });
